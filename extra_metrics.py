@@ -12,7 +12,7 @@ from rapidfuzz import fuzz
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 # Google Maps API key
-google_api_key = "AIzaSyDlQV_TR7xcEKMOeAaVykSrdezkNAd42dk"
+google_api_key = ""
 
 # Setup a cache for geolocation lookups
 geocode_cache = TTLCache(maxsize=1000, ttl=86400)
