@@ -20,12 +20,18 @@ This project processes and analyzes data, computes metrics, and generates a scat
   - scikit-learn  
 
 ## Project Structure
-/your-project-folder
+your-project-folder
+
 ├── main.py
+
 ├── extra_metrics.py
+
 ├── nyc_bound.py
-├── data/         
-├── outputs/           
+
+├── data/       
+
+├── outputs/   
+
 └── README.md
 
 ## Usage
